@@ -14,7 +14,7 @@ Ive used concepts such as :
 
 4.Logistic Regression
 
-Also I've published a repository named "Machine Learning" which contains a couple of projects done using R software instead of Python.
+Also I've published a repository named "Machine_Learning" which contains a couple of projects done using R software instead of Python.
 
 Thank You
 
