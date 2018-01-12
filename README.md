@@ -8,7 +8,7 @@ Ive used concepts such as :
 
 1.K-Nearest Neighbors algorithm
 
-2.Deep Learning
+2.Deep Learning via Neural Networks
 
 3.Bayes algorithm
 
