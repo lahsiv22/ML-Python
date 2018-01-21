@@ -6,13 +6,9 @@ I've published this repository to demonstrate my work and help those who are new
 
 Ive used concepts such as :
 
-1.K-Nearest Neighbors algorithm
+1.Logistic Regression
 
-2.Deep Learning via Neural Networks
-
-3.Bayes algorithm
-
-4.Logistic Regression
+2.
 
 Also I've published a repository named "Machine_Learning" which contains a couple of projects done using R software instead of Python.
 
